@@ -1,3 +1,3 @@
-#How to run the project..
-Run ## `npm install`
-Run ## `npm start`
+#How to run the project..<br>
+Run  `npm install`<br>
+Run  `npm start`
